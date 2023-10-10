@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Personal Interests
+title: personal interests
 nav: true
 nav_order: 5
 dropdown: true
