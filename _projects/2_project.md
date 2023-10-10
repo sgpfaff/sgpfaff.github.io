@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CMB data processing
+title: cosmic microwave background data processing
 description: data pipeline development for the Cosmology Large Angular Scale Surveyor (CLASS)
 img: assets/img/3.jpg
 importance: 2
