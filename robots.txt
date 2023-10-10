@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gabrielpfaffman.github.io/al-folio/sitemap.xml
+Sitemap: https://gabrielpfaffman.github.io/sitemap.xml
