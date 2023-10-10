@@ -2,7 +2,7 @@
 layout: page
 title: cosmic microwave background data processing
 description: data pipeline development for the Cosmology Large Angular Scale Surveyor (CLASS)
-img: assets/img/3.jpg
+img: assets/img/cut.png
 importance: 2
 category: work
 giscus_comments: true
