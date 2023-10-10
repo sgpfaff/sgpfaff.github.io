@@ -2,7 +2,7 @@
 layout: page
 title: stellar shells
 description: an investigation of how stellar shell formation is impacted by the presence of an oscillating central potential.
-img: assets/img/12.jpg
+img: assets/img/12.png
 importance: 1
 category: work
 related_publications:
