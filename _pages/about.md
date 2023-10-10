@@ -7,7 +7,7 @@ subtitle: <a href='#'>Astronomy Department, Columbia University</a>. sgp2146@col
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>70 Morningside Drive, sgp2146</p>
     <p>New York, New York 10027</p>
