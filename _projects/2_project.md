@@ -4,7 +4,7 @@ title: cosmic microwave background
 description: data pipeline development for the Cosmology Large Angular Scale Surveyor (CLASS)
 img: assets/img/cut.png
 importance: 2
-category: work
+category:
 giscus_comments: true
 ---
 
