@@ -10,7 +10,7 @@ related_publications:
 
 ## Introduction
 Stellar shells are concentric layers of stars encircling some galaxies. These shells are formed when a smaller progenitor galaxy merges with a larger host galaxy, a scenario most frequently observed in nature when the progenitor follows a highly eccentric orbit around the host galaxy [1].
-(!)[image](https://github.com/gabrielpfaffman/gabrielpfaffman.github.io/blob/master/assets/img/shell_irl.jpg)
+![image](/gabrielpfaffman.github.io/blob/master/assets/img/shell_irl.jpg)
 
 With Dr. Tomer Yavetz, I investigate the influence of an oscillating central potential in the host galaxy on the formation of stellar shells. The physical motivation for this investigation lies in the predicted behavior of galaxies with Fuzzy Dark Matter (FDM) halos. 
 
