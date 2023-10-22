@@ -12,7 +12,7 @@ related_publications:
 Stellar shells are concentric layers of stars encircling some galaxies. These shells are formed when a smaller progenitor galaxy merges with a larger host galaxy, a scenario most frequently observed in nature when the progenitor follows a highly eccentric orbit around the host galaxy [1].
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/shell_irl.jpg" title="Figure 1" %}
+        {% include figure.html path="assets/img/shell_irl.jpg" title="Figure 1" class="img-fluid rounded z-depth-1"%}
     </div>
 </div>
 
