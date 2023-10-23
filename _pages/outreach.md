@@ -13,16 +13,16 @@ In 2018 and 2019, I started and ran the [Future Voyager Fund](https://www.spacef
 
 I actively post on the Space First [blog](https://www.spacefirst.org/blog) about various topics, ranging from hot topics in astrophysics, space travel updates, and a glipse into the life of someone stuying astrophysics.
 
-As a recent hobby, I started sharing animations and short talks on [youtube](https://youtube.com/@sgpspace). Some of the animations are intended to be teaching tools, such as [this](https://www.youtube.com/watch?v=RsmxoaW-1ug) visualization of a radius versus time plot of a star's orbit.
+As a recent hobby, I started sharing animations and short talks on [youtube](https://youtube.com/@sgpspace). Some of the animations are intended to be teaching tools, such as this visualization of a radius versus time plot of a star's orbit.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/video/animation_1.mp4" title="Video 1" class="img-fluid rounded z-depth-1"%}
+        {% include vdeo.html path="assets/img/animation_1.mp4" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
     </div>
 </div>
-This animation is meant to build intuition for [this](https://www.youtube.com/watch?v=O4corKdCKxI) animation of phase mixing in shell formation for individuals unfamiliar with this kind of plot.
+This animation is meant to build intuition for this animation of phase mixing in shell formation for individuals unfamiliar with this kind of plot.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/video/animation_1.mp4" title="Video 2" class="img-fluid rounded z-depth-1"%}
+        {% include video.html path="assets/video/anim_2.mp4" title="Video 2" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
     </div>
 </div> 
 In other cases, my animations are meant to efficiently communicate the methods and results of research in an academic setting. I am often thinking about how I can use animations to explain my work in a more efficient, intuitive, and accessible way.
