@@ -19,7 +19,7 @@ Stellar shells are concentric layers of stars encircling some galaxies. These sh
     **Figure 1.** Hubble image of the galaxy ESO 381-12, containing several stellar shells. Credit: NASA, ESA, P. Goudfrooij (STScI)
 </div>
 
-With Dr. Tomer Yavetz, I investigate the influence of an oscillating central potential in the host galaxy on the formation of stellar shells. The physical motivation for this investigation lies in the predicted behavior of galaxies with Fuzzy Dark Matter (FDM) halos. 
+With Dr. Tomer Yavetz at the Institute for Advanced Study, I investigate the influence of an oscillating central potential in the host galaxy on the formation of stellar shells. The physical motivation for this investigation lies in the predicted behavior of galaxies with Fuzzy Dark Matter (FDM) halos. 
 
 FDM is a proposed form of dark matter that is composed of ultralight scalar axions, with a de Broglie wavelength on the scale of approximately a kpc. Central oscillations in the seen in FDM simulations due to wave-like interference patterns [2].
 
