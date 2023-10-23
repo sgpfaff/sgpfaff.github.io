@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Misc.
+title: dynamics
 description: Independent and early work.
 img: assets/img/merger.gif
-redirect: https://unsplash.com
+redirect: 
 importance: 4
 category:
 ---
