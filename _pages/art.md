@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /art/
-title: art
+title: visual arts
 description:
 nav: false
 nav_order: 3
