@@ -8,7 +8,7 @@ category:
 giscus_comments: true
 ---
 
-During my time working with the [Cosmology Large Angular Scale Surveyor (CLASS)](https://sites.krieger.jhu.edu/class/) team at Johns Hopkins University, I worked with Joseph Eimer to develop the data processing pipeline. The scientific goal of CLASS is to detect B-Mode polarization from the cosmic microwave background. A detection of this form of polarization at these wavelengths would most likely be explained by gravitational waves formed by inflationary expansion shortly after the Big Bang.
+During my time working with the [Cosmology Large Angular Scale Surveyor (CLASS)](https://sites.krieger.jhu.edu/class/) team at Johns Hopkins University, I worked with Dr. Joseph Eimer to develop the data processing pipeline. The scientific goal of CLASS is to detect B-Mode polarization from the cosmic microwave background. A detection of this form of polarization at these wavelengths would most likely be explained by gravitational waves formed by inflationary expansion shortly after the Big Bang.
 
 The detectors on the CLASS telescopes, located in the High Altacama Desert of Chile, take time to receive signals. As a result, the same data may be received at different times for different detectors. Among the issues this can cause is difficulty locating and cutting calibration activities (called relocs) from the dataset.
 
