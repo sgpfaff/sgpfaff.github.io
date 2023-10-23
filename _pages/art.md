@@ -3,6 +3,6 @@ layout: page
 permalink: /art/
 title: art
 description:
-nav: true
+nav: false
 nav_order: 3
 ---
