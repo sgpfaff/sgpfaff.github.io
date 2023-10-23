@@ -4,7 +4,7 @@ title: astrostatistics
 description:
 img: assets/img/astrostats.png
 redirect: https://unsplash.com
-importance: 4
+importance: 3
 category:
 ---
 

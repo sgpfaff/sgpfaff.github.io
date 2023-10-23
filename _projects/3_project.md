@@ -1,10 +1,10 @@
 ---
 layout: page
-title: galactic dynamics
-description: several projects related to motion of stars in a host galaxy.
+title: Misc.
+description: Independent and early work.
 img: assets/img/merger.gif
 redirect: https://unsplash.com
-importance: 3
+importance: 4
 category:
 ---
 
