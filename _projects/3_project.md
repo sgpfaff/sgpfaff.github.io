@@ -2,7 +2,7 @@
 layout: page
 title: galactic dynamics
 description: several projects related to motion of stars in a host galaxy.
-img: assets/img/7.jpg
+img: assets/img/merger.gif
 redirect: https://unsplash.com
 importance: 3
 category:
