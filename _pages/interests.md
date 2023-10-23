@@ -5,8 +5,10 @@ nav: true
 nav_order: 5
 dropdown: true
 children:
-    - title: Music
-      permalink: /publications/
-    - title: Visual Arts
-      permalink: /projects/
+    - title: music
+      permalink: /music/
+    - title: visual Arts
+      permalink: /art/
+    - title: photography
+      permalink: /photography/
 ---
