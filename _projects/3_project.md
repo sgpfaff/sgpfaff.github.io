@@ -5,7 +5,7 @@ description: Independent and early work.
 img: assets/img/merger.gif
 redirect: 
 importance: 4
-category:
+category: undergraduate
 ---
 
 My experience with research was a project involving integrating the orbits of stars passing through the solitonic core of a fuzzy dark matter halo with Dr. Jerry Ostriker. I created an orbit integrator and manually made a Milky Way potential. 
@@ -20,7 +20,7 @@ Unfortunately, I was not able to complete the investigation with Dr. Ostriker, h
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/FDM_merger.mp4" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/video/merger.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
