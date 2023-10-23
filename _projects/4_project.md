@@ -2,7 +2,7 @@
 layout: page
 title: astrostatistics
 description:
-img: assets/img/7.jpg
+img: assets/img/astrostats.png
 redirect: https://unsplash.com
 importance: 4
 category:
