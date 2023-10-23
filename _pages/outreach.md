@@ -16,7 +16,7 @@ I actively post on the Space First [blog](https://www.spacefirst.org/blog) about
 I recently started sharing animations and short talks on [youtube](https://youtube.com/@sgpspace). Some of the animations are intended to be teaching tools, such as this visualization of a radius versus time plot of a star's orbit.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path=""https://www.youtube.com/embed/RsmxoaW-1ug?si=RR35v0HT8RK_bCdP" " title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
+        {% include video.html path="https://www.youtube.com/embed/RsmxoaW-1ug?si=RR35v0HT8RK_bCdP" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
     </div>
 </div>
 This animation is meant to build intuition for this animation of phase mixing in shell formation for individuals unfamiliar with this kind of plot.
