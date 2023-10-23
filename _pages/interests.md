@@ -7,7 +7,7 @@ dropdown: true
 children:
     - title: music
       permalink: /music/
-    - title: visual Arts
+    - title: visual arts
       permalink: /art/
     - title: photography
       permalink: /photography/
