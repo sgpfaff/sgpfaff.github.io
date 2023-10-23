@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-Along with my passion for outer space, I possessed an interest in outreach and humanitarian activism from a young age. Eight years ago I created [Space First](https://www.spacefirst.org), born at the nexus of my early interests of outer space and. Originally a platform to share active developments in astronomy and space travel, the focus of Space First shifted to outreach and science communication as time went on. 
+Along with my passion for outer space, I possessed an interest in outreach and humanitarian activism from a young age. Eight years ago I created [Space First](https://www.spacefirst.org), born at the nexus of these interests. Originally a platform to share active developments in astronomy and space travel, the focus of Space First shifted to outreach and science communication as time went on. 
 
 In 2018 and 2019, I started and ran the [Future Voyager Fund](https://www.spacefirst.org/future-voyager-scholarship.html) through Space First to provide an underpriveledged middle schooler with science resources, such as a 3D printer and a Raspberry Pi, to grow their interest in STEM. Unfortunately, I halted the fundraiser in 2020 due to the pandemic, concerned with the ethics of fundraising at the time. I plan to bring the Future Voyager Fund back with reimagined fundraising and receipient selection criteria. 
 
