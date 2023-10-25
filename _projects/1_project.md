@@ -6,6 +6,8 @@ img: assets/img/prof.gif
 importance: 1
 category: undergraduate
 related_publications:
+sidebar = true
+toc = true
 toc:
     beginning=true
 ---
