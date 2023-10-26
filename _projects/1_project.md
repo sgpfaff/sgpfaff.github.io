@@ -6,9 +6,9 @@ img: assets/img/prof.gif
 importance: 1
 category: undergraduate
 related_publications:
-sidebar: true
+
 toc:
-    beginning=true
+    sidebar: left
 ---
 ## Abstract
 ---
