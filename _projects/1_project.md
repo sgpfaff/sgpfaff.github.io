@@ -11,8 +11,10 @@ toc:
     sidebar: left
 ---
 If you would rather see a poster-like summary of the project, go to the Brief Overview section.
+---
 
 ## Detailed Overview
+
 With Dr. Tomer Yavetz at the Institute for Advanced Study, I investigate the influence of an oscillating central potential in the host galaxy on the formation of stellar shells. This statement might not mean a lot to you right now, but I hope that after reading this page it will make more sense. I motivate each component of the project and detail the setup we chose in the following sections.
 
 ### Oscillating Central Potentials
@@ -23,6 +25,8 @@ Agreeing with intuition, the dynamical effect of this oscillating central potent
 What are stellar shells?
 ### Shell Formation with Oscillating Central Potential
 What happens to this static shell morphology when you introduce an oscillating central potential during its formation?
+---
+
 ## Brief Overview
 ### Introduction
 Stellar shells are concentric layers of stars encircling some galaxies. These shells are formed when a smaller progenitor galaxy merges with a larger host galaxy, a scenario most frequently observed in nature when the progenitor follows a highly eccentric orbit around the host galaxy [1].
