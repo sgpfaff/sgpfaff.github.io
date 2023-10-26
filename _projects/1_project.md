@@ -11,7 +11,7 @@ toc:
     sidebar: left
 ---
 If you would rather see a poster-like summary of the project, go to the Brief Overview section.
----
+
 
 ## **Detailed Overview**
 
