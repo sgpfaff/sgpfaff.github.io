@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /music/
-title: art
+title: Music
 description:
 nav: false
 nav_order: 3

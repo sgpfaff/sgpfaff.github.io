@@ -1,6 +1,6 @@
 ---
 layout: page
-title: dynamics
+title: Dynamics
 description: Independent and early work.
 img: assets/img/merger.gif
 redirect: 

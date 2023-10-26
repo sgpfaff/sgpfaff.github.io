@@ -1,7 +1,7 @@
 ---
 layout: page
-title: cosmic microwave background
-description: data pipeline development for the Cosmology Large Angular Scale Surveyor (CLASS)
+title: Cosmic Microwave Background
+description: Data pipeline development for the Cosmology Large Angular Scale Surveyor (CLASS)
 img: assets/img/cut.png
 importance: 2
 category: undergraduate

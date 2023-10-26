@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Astronomy Department, Columbia University</a>. sgp2146@columbia.edu
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: astrostatistics
+title: Astrostatistics
 description: Various projects revolving around leveraging the power of statistics to make inferences about astronomy data.
 img: assets/img/astrostats.png
 redirect: 

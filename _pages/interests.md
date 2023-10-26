@@ -1,14 +1,14 @@
 ---
 layout: page
-title: personal interests
+title: Personal Interests
 nav: true
 nav_order: 5
 dropdown: true
 children:
-    - title: music
+    - title: Music
       permalink: /music/
-    - title: visual arts
+    - title: Visual arts
       permalink: /art/
-    - title: photography
+    - title: Photography
       permalink: /photography/
 ---

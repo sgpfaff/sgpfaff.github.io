@@ -1,7 +1,7 @@
 ---
 layout: page
-title: stellar shell formation
-description: an investigation of how stellar shell formation is impacted by the presence of an oscillating central potential.
+title: Stellar Shell Formation
+description: An investigation of how stellar shell formation is impacted by the presence of an oscillating central potential.
 img: assets/img/prof.gif
 importance: 1
 category: undergraduate
