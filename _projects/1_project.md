@@ -23,7 +23,7 @@ Let's start with a the following simplified model of a galaxy.
     </div>
 </div>
 
-The circle in the middle with the squiggly line represents the visible matter of the galaxy. This may be spiral arms, a bar, stars, and/or gas. The dotted line surrounding the visible matter represents the [dark matter halo](). Dark matter halos are known to exist from [rotation curve data](). This diagram is not to scale, as in reality the dark matter halo is significantly larger than the visible part of the galaxy.
+The circle in the middle with the squiggly line represents the visible matter of the galaxy. This may be spiral arms, a bar, stars, and/or gas. The dotted line surrounding the visible matter represents the [dark matter halo](). Dark matter halos are known to exist from [rotation curve]() data. This diagram is not to scale, as in reality the dark matter halo is significantly larger than the visible part of the galaxy.
 
 The conventional practice in galaxy research (disregarding unique cases such as spiral arms, bars, and subhalos) treats the potential and density of galaxies as static in time. In other words, the density of the galaxy only depends on *where* you are in the galaxy, not *when* you observe it. 
 
