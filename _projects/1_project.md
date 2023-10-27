@@ -31,14 +31,28 @@ The conventional practice in galaxy research (disregarding unique cases such as 
 </div>
 This effect is predicted for a halo of Fuzzy Dark Matter, an ultralight form of dark matter that abides by quantum mechanics at galactic scales. We may see similar behavior with a rotating bar as well.
 
-An NFW density profile is used for the outer region, since this density profile converges with Cold Dark Matter (the more conventionally used dark matter model) and observations at large radii. For the core density profile (the one that is fluctuating), we use a profile that is cusped (the reason why this is important is to resolve the [core cusp problem]()). The core density is dependent on a scale factor, which we vary sinusoidally to introduce temporal density oscillations in the central region.
+An NFW density profile is used for the outer region, since this density profile converges with Cold Dark Matter (the more conventionally used dark matter model) and observations at large radii. For the core density profile (the one that is fluctuating), we use a profile that is cusped (the reason why this is important is to resolve the [core cusp problem]()). The core density is dependent on a scale radius, $r_c$, which varies to introduce temporal density oscillations in the central region.
 $$
 \rho(r, t) = 
 \begin{array}{ll}
     \rho_{CORE} & r \leq r_{intersect}
     \rho_{NFW} & r \geq r_{intersect}
+\end{array}
 $$
+where $r_{intersect}$ is the radius where the density profiles intersect and $r_c = r_c(0) sin(\frac{2 \pi t}{T_{osc}}). **$T_{osc}$** is the period of density oscillation, which becomes an important parameter in interpreting our results.
 
+One way to visualize this density oscillation is to animate the density-radius plot over time. 
+
+--> insert animation
+
+Another way to visualize the evolution of the density is to make a color map with radius on the y-axis, time on the y-axis, and the color representing density.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/tables.png" title="Figure 2" %}
+    </div>
+</div>
+Each vertical strip represents a snapshot of the relationship between radius and density at a specific time, while horizontal strips reveal how density changes over time at a specific radius.
 
 Agreeing with intuition, the dynamical effect of this oscillating central potential on some structure in this galaxy is maximized when you are closer to the region of oscillation. Conveniently, very unique structure forms (in a static potential) when you merge a small galaxy with a larger galaxy on a trajectory that comes close to the center: stellar shells.
 
