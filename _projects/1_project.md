@@ -40,26 +40,26 @@ However, many theories predict that the central region of many galaxies have tem
 
 This effect is predicted for a halo of Fuzzy Dark Matter, an theorized ultralight form of dark matter that abides by quantum mechanics at galactic scales. We may see similar behavior with a rotating bar as well.
 
-An NFW density profile is used for the outer region, since this density profile converges with Cold Dark Matter (the more conventionally used dark matter model) and observations at large radii. For the core density profile (the one that is fluctuating), we use a profile that is cusped (the reason why this is important is to resolve the [core cusp problem](https://en.wikipedia.org/wiki/Cuspy_halo_problem)). The core density is dependent on a scale radius, $$r_c$$, which varies to introduce temporal density oscillations in the central region.
+A [Navarro-Frenk-White (NFW) density profile](https://en.wikipedia.org/wiki/Navarro–Frenk–White_profile) is used for the outer region, since this density profile converges with Cold Dark Matter (the more conventionally used dark matter model) and observations at large radii. For the core density profile (the one that is fluctuating), we use a profile that is cusped (the reason why this is important is to resolve the [core cusp problem](https://en.wikipedia.org/wiki/Cuspy_halo_problem)). The core density is dependent on a scale radius, $$r_c$$, which varies to introduce temporal density oscillations in the central region.
 
 $$
 \rho(r, t) =
  \left\{
 \begin{array}{ll}
-    \rho_{CORE}, & r \leq r_{intersect}\\
-    \rho_{NFW}, & r \geq r_{intersect} \\
+    \rho_{CORE}(r,t), & r \leq r_{intersect}\\
+    \rho_{NFW}(r), & r \geq r_{intersect} \\
 \end{array}
 \right.
 =
  \left\{
 \begin{array}{ll}
-    \rho_{CORE}, & r \leq r_{intersect}\\
-    \rho_{NFW}, & r \geq r_{intersect} \\
+    \frac{0.019(m_a/10^{-22}eV)^{-2}(r_c(t)/kpc)^{-4}}{[1+0.091(\frac{r}{r_c(t)})^2]^8}, & r \leq r_{osc}\\
+    \frac{\rho_0}{\frac{r}{R_s}(1+\frac{r}{R_s})^2}, & r \geq r_{osc} \\
 \end{array}
 \right.
 $$
 
-where $$r_{intersect}$$ is the radius where the density profiles intersect and 
+where 
 
 $$r_c(t) = r_{c,0} sin(\frac{2 \pi t}{T_{osc}})$$. 
 
