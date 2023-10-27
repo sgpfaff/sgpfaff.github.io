@@ -5,6 +5,7 @@ description: Independent and early work.
 img: assets/img/merger.gif
 redirect: 
 importance: 4
+permalink: /dynamics/
 category: undergraduate
 ---
 

@@ -5,6 +5,7 @@ description: Data pipeline development for the Cosmology Large Angular Scale Sur
 img: assets/img/cut.png
 importance: 2
 category: undergraduate
+permalink: /cmb/
 giscus_comments: true
 ---
 

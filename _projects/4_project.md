@@ -5,6 +5,7 @@ description: Various projects revolving around leveraging the power of statistic
 img: assets/img/astrostats.png
 redirect: 
 importance: 3
+permalink: /astrostats/
 category: undergraduate
 ---
 
