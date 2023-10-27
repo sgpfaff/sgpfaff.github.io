@@ -27,7 +27,7 @@ The circle in the middle with the squiggly line represents the visible matter of
 
 The conventional practice in galaxy research (disregarding unique cases such as spiral arms, bars, and subhalos) treats the potential and density of galaxies as static in time. In other words, the density of the galaxy only depends on *where* you are in the galaxy, not *when* you observe it. 
 
-However, many theories predict that the central region of many galaxies have temporal density oscillations at small radii. Let's update the model we had before, adding a red circle for the region with oscillating density. For our purposes, we are going to just worry about the dark matter halo.
+However, many theories predict that the central region of many galaxies have temporal density oscillations at small radii. Let's update the model we had before, adding a red circle for the region with oscillating density. For our purposes, we are only concerned with the dark matter halo, so I have removed the visible matter from the diagram.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -42,7 +42,7 @@ An NFW density profile is used for the outer region, since this density profile 
 $$
 \rho(r, t) =
  \left\{
-\begin{array}{ll} \\
+\begin{array}{ll}
     \rho_{CORE}, & r \leq r_{intersect}\\
     \rho_{NFW}, & r \geq r_{intersect} \\
 \end{array}
