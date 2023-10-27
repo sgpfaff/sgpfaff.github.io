@@ -10,6 +10,8 @@ related_publications:
 toc:
     sidebar: left
 ---
+
+---
 ## **Detailed Overview**
 
 *With Dr. Tomer Yavetz at the Institute for Advanced Study, I investigate the influence of an oscillating central potential in the host galaxy on the formation of stellar shells. That's a lot of jargon, so I will break down each part in the following sections.*
@@ -83,7 +85,7 @@ The progenitor contains stars with different energies and angular momenta, both 
 ### Putting it all together
 So, what happens to this static shell morphology when you introduce an oscillating central potential during its formation?
 
-
+---
 ## **Brief Overview**
 
 ### Introduction
