@@ -23,23 +23,27 @@ The circle in the middle with the squiggly line represents the visible matter of
         {% include figure.html path="assets/img/galgraphic1.png" title="Figure 2" %}
     </div>
 </div>
-The conventional practice in galaxy research (disregarding unique cases such as spiral arms, bars, and subhalos) treats the potential and density of galaxies as static in time. In other words, the density of the galaxy only depends on *where* you are in the galaxy, not *when* you observe it. However, many theories predict that the central region of many galaxies have temporal density oscillations at small radii. Let's update the model we had before, adding a red circle for the region with oscillating density. For our purposes, we are going to just worry about the dark matter halo.
+The conventional practice in galaxy research (disregarding unique cases such as spiral arms, bars, and subhalos) treats the potential and density of galaxies as static in time. In other words, the density of the galaxy only depends on *where* you are in the galaxy, not *when* you observe it. 
+
+However, many theories predict that the central region of many galaxies have temporal density oscillations at small radii. Let's update the model we had before, adding a red circle for the region with oscillating density. For our purposes, we are going to just worry about the dark matter halo.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/galgraphic2.png" title="Figure 2" %}
     </div>
 </div>
-This effect is predicted for a halo of Fuzzy Dark Matter, an ultralight form of dark matter that abides by quantum mechanics at galactic scales. We may see similar behavior with a rotating bar as well.
+This effect is predicted for a halo of Fuzzy Dark Matter, an theorized ultralight form of dark matter that abides by quantum mechanics at galactic scales. We may see similar behavior with a rotating bar as well.
 
 An NFW density profile is used for the outer region, since this density profile converges with Cold Dark Matter (the more conventionally used dark matter model) and observations at large radii. For the core density profile (the one that is fluctuating), we use a profile that is cusped (the reason why this is important is to resolve the [core cusp problem]()). The core density is dependent on a scale radius, $$r_c$$, which varies to introduce temporal density oscillations in the central region.
-$$$
+
+$$
 \rho(r, t) = 
 \begin{array}{ll}
     \rho_{CORE} & r \leq r_{intersect}
     \rho_{NFW} & r \geq r_{intersect}
 \end{array}
-$$$
-where $$r_{intersect}$$ is the radius where the density profiles intersect and $$r_c = r_c(0) sin(\frac{2 \pi t}{T_{osc}})$$. **$$T_{osc}$$** is the period of density oscillation, which becomes an important parameter in interpreting our results.
+$$
+
+where $$r_{intersect}$$ is the radius where the density profiles intersect and $$r_c(t) = r_{c,0} sin(\frac{2 \pi t}{T_{osc}})$$. $$T_{osc}$$ is the period of density oscillation, which becomes an important parameter in interpreting our results.
 
 One way to visualize this density oscillation is to animate the density-radius plot over time. 
 
@@ -57,7 +61,7 @@ Each vertical strip represents a snapshot of the relationship between radius and
 Agreeing with intuition, the dynamical effect of this oscillating central potential on some structure in this galaxy is maximized when you are closer to the region of oscillation. Conveniently, very unique structure forms (in a static potential) when you merge a small galaxy with a larger galaxy on a trajectory that comes close to the center: stellar shells.
 
 ### Stellar Shells
-Before moving forward, let's get some intuition for stellar shell formation and morphology. To start, consider the following setup: a dwarf galaxy (blue) merging with the dark matter halo of an elliptical galaxy on a radial trajectory (dashed blue). We refer to the smaller galaxy in this situation as the *progenitor* and the larger galaxy as the *host*.
+Before moving forward, let's get some intuition for stellar shell formation and morphology. To start, consider the following setup: a dwarf galaxy (blue) merging with the dark matter halo of an elliptical galaxy on a radial trajectory (dashed blue). We refer to the smaller galaxy in this situation as the ***progenitor*** and the larger galaxy as the ***host***.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -66,8 +70,8 @@ Before moving forward, let's get some intuition for stellar shell formation and 
 </div>
 
 
-### Shell Formation with Oscillating Central Potential
-What happens to this static shell morphology when you introduce an oscillating central potential during its formation?
+### Putting it all together
+So, what happens to this static shell morphology when you introduce an oscillating central potential during its formation?
 
 ## **Brief Overview**
 ### Introduction
