@@ -41,15 +41,19 @@ An NFW density profile is used for the outer region, since this density profile 
 
 $$
 \rho(r, t) = 
-\begin{array}{ll}
+\[  \left\{
+\begin{array}{ll} \\
     \rho_{CORE} & r \leq r_{intersect}
-    \rho_{NFW} & r \geq r_{intersect}
+    \rho_{NFW} & r \geq r_{intersect} \\
 \end{array}
+\right. \]
 $$
 
-where $$r_{intersect}$$ is the radius where the density profiles intersect and $$r_c(t) = r_{c,0} sin(\frac{2 \pi t}{T_{osc}})$$. $$T_{osc}$$ is the period of density oscillation, which becomes an important parameter in interpreting our results.
+where $$r_{intersect}$$ is the radius where the density profiles intersect and 
 
-One way to visualize this density oscillation is to animate the density-radius plot over time. 
+$$r_c(t) = r_{c,0} sin(\frac{2 \pi t}{T_{osc}})$$. 
+
+$$T_{osc}$$ is the period of density oscillation, which becomes an important parameter in interpreting our results. One way to visualize this density oscillation is to animate the density-radius plot over time. 
 
 --> insert animation
 
