@@ -5,7 +5,6 @@ description: An investigation of how stellar shell formation is impacted by the 
 img: assets/img/prof.gif
 importance: 1
 category: undergraduate
-permalink: /shells/
 related_publications:
 
 toc:
