@@ -19,7 +19,7 @@ Let's start with a the following simplified model of a galaxy.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/galgraphic1.png" title="Figure 2" %}
+        {% include figure.html path="assets/img/galgraphic1.png" title="Figure 2" center=true%}
     </div>
 </div>
 
