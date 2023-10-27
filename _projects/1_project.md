@@ -40,13 +40,13 @@ This effect is predicted for a halo of Fuzzy Dark Matter, an theorized ultraligh
 An NFW density profile is used for the outer region, since this density profile converges with Cold Dark Matter (the more conventionally used dark matter model) and observations at large radii. For the core density profile (the one that is fluctuating), we use a profile that is cusped (the reason why this is important is to resolve the [core cusp problem]()). The core density is dependent on a scale radius, $$r_c$$, which varies to introduce temporal density oscillations in the central region.
 
 $$
-\rho(r, t) = 
-
+\rho(r, t) =
+\[  \left\{
 \begin{array}{ll} \\
     \rho_{CORE} & r \leq r_{intersect}\\
     \rho_{NFW} & r \geq r_{intersect} \\
 \end{array}
-
+\right. \]
 $$
 
 where $$r_{intersect}$$ is the radius where the density profiles intersect and 
