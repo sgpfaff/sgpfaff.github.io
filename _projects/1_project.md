@@ -41,12 +41,12 @@ An NFW density profile is used for the outer region, since this density profile 
 
 $$
 \rho(r, t) = 
-\[  \left\{
+
 \begin{array}{ll} \\
-    \rho_{CORE} & r \leq r_{intersect}
+    \rho_{CORE} & r \leq r_{intersect}\\
     \rho_{NFW} & r \geq r_{intersect} \\
 \end{array}
-\right. \]
+
 $$
 
 where $$r_{intersect}$$ is the radius where the density profiles intersect and 
@@ -78,6 +78,7 @@ Before moving forward, let's get some intuition for stellar shell formation and 
     </div>
 </div>
 
+The progenitor contains stars with different energies and angular momenta, both quantities that do not change through time with a static potential. The energy governs how long it takes a star to go from one apocenter (point of maximum radius in an orbit) to another, $$T_{orbit}$$, and the radius of apocenter. 
 
 ### Putting it all together
 So, what happens to this static shell morphology when you introduce an oscillating central potential during its formation?
