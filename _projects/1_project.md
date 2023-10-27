@@ -47,7 +47,7 @@ $$
 \rho(r, t) =
  \left\{
 \begin{array}{ll}
-    \rho_{CORE}(r,t), & r \leq r_{osc}\\
+    \rho_{core}(r,t), & r \leq r_{osc}\\
     \rho_{NFW}(r), & r \geq r_{osc} \\
 \end{array}
 \right.
