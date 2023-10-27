@@ -16,7 +16,7 @@ toc:
 ## **Detailed Overview**
 
 With Dr. Tomer Yavetz at the Institute for Advanced Study, I investigate the influence of an oscillating central potential in the host galaxy on the formation of stellar shells. That's a lot of jargon, so I will break down each part in the following sections.
-</br>
+<br>
 
 ### Oscillating Central Potentials
 Let's start with a the following simplified model of a galaxy.
