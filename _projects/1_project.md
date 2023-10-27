@@ -41,7 +41,7 @@ However, many theories predict that the central region of many galaxies have tem
 
 This effect is predicted for a halo of Fuzzy Dark Matter, an theorized ultralight form of dark matter that abides by quantum mechanics at galactic scales. We may see similar behavior with a rotating bar as well.
 
-A [Navarro-Frenk-White (NFW) density profile](https://en.wikipedia.org/wiki/Navarro–Frenk–White_profile) is used for the outer region, since this density profile converges with Cold Dark Matter (the more conventionally used dark matter model) and observations at large radii. For the core density profile (the one that is fluctuating), we use a profile that is cusped (the reason why this is important is to resolve the [core cusp problem](https://en.wikipedia.org/wiki/Cuspy_halo_problem)). The core density is dependent on a scale radius, $$r_c$$, which varies to introduce temporal density oscillations in the central region.
+A [Navarro-Frenk-White (NFW) density profile](https://en.wikipedia.org/wiki/Navarro–Frenk–White_profile) is used for the outer region, since this density profile converges with Cold Dark Matter (the more conventionally used dark matter model) and observations at large radii. For the core density profile (the one that is fluctuating), we use a profile that is cusped (the reason why this is important is to resolve the [core cusp problem](https://en.wikipedia.org/wiki/Cuspy_halo_problem)). The core density is dependent on a scale radius, $$r_c(t)$$, which varies sinusoidally, introducing temporal density oscillations in the central region.
 
 $$
 \rho(r, t) =
@@ -62,7 +62,9 @@ $$
 
 where 
 
-$$r_c(t) = r_{c,0} sin(\frac{2 \pi t}{T_{osc}})$$. 
+$$
+r_c(t) = r_{c,0} sin(\frac{2 \pi t}{T_{osc}})
+$$. 
 
 $$T_{osc}$$ is the period of density oscillation, which becomes an important parameter in interpreting our results. One way to visualize this density oscillation is to animate the density-radius plot over time. 
 
