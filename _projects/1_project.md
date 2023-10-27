@@ -43,8 +43,8 @@ $$
 \rho(r, t) =
  \left\{
 \begin{array}{ll} \\
-    \rho_{CORE} & r \leq r_{intersect}\\
-    \rho_{NFW} & r \geq r_{intersect} \\
+    \rho_{CORE}, & r \leq r_{intersect}\\
+    \rho_{NFW}, & r \geq r_{intersect} \\
 \end{array}
 \right.
 $$
