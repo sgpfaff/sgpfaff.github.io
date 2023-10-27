@@ -12,7 +12,7 @@ toc:
 ---
 ## **Detailed Overview**
 
-With Dr. Tomer Yavetz at the Institute for Advanced Study, I investigate the influence of an oscillating central potential in the host galaxy on the formation of stellar shells. That's a lot of jargon, so I will break down each part in the following sections.
+*With Dr. Tomer Yavetz at the Institute for Advanced Study, I investigate the influence of an oscillating central potential in the host galaxy on the formation of stellar shells. That's a lot of jargon, so I will break down each part in the following sections.*
 
 ### Oscillating Central Potentials
 Let's start with a the following simplified model of a galaxy.
@@ -26,12 +26,18 @@ The circle in the middle with the squiggly line represents the visible matter of
 The conventional practice in galaxy research (disregarding unique cases such as spiral arms, bars, and subhalos) treats the potential and density of galaxies as static in time. In other words, the density of the galaxy only depends on *where* you are in the galaxy, not *when* you observe it. However, many theories predict that the central region of many galaxies have temporal density oscillations at small radii. Let's update the model we had before, adding a red circle for the region with oscillating density. For our purposes, we are going to just worry about the dark matter halo.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/galgraphic3.png" title="Figure 2" %}
+        {% include figure.html path="assets/img/galgraphic2.png" title="Figure 2" %}
     </div>
 </div>
 This effect is predicted for a halo of Fuzzy Dark Matter, an ultralight form of dark matter that abides by quantum mechanics at galactic scales. We may see similar behavior with a rotating bar as well.
 
-An NFW density profile is used for the outer region, since this density profile 
+An NFW density profile is used for the outer region, since this density profile converges with Cold Dark Matter (the more conventionally used dark matter model) and observations at large radii. For the core density profile (the one that is fluctuating), we use a profile that is cusped (the reason why this is important is to resolve the [core cusp problem]()). The core density is dependent on a scale factor, which we vary sinusoidally to introduce temporal density oscillations in the central region.
+$$
+\rho(r, t) = 
+\begin{array}{ll}
+    \rho_{CORE} & r \leq r_{intersect}
+    \rho_{NFW} & r \geq r_{intersect}
+$$
 
 
 Agreeing with intuition, the dynamical effect of this oscillating central potential on some structure in this galaxy is maximized when you are closer to the region of oscillation. Conveniently, very unique structure forms (in a static potential) when you merge a small galaxy with a larger galaxy on a trajectory that comes close to the center: stellar shells.
