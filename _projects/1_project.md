@@ -17,20 +17,24 @@ toc:
 ### Oscillating Central Potentials
 Let's start with a the following simplified model of a galaxy.
 
-The circle in the middle with the squiggly line represents the visible matter of the galaxy. This may be spiral arms, a bar, stars, and/or gas. The dotted line surrounding the visible matter represents the [dark matter halo](). Dark matter halos are known to exist from [rotation curve data](). This diagram is not to scale, as in reality the dark matter halo is significantly larger than the visible part of the galaxy.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/galgraphic1.png" title="Figure 2" %}
     </div>
 </div>
+
+The circle in the middle with the squiggly line represents the visible matter of the galaxy. This may be spiral arms, a bar, stars, and/or gas. The dotted line surrounding the visible matter represents the [dark matter halo](). Dark matter halos are known to exist from [rotation curve data](). This diagram is not to scale, as in reality the dark matter halo is significantly larger than the visible part of the galaxy.
+
 The conventional practice in galaxy research (disregarding unique cases such as spiral arms, bars, and subhalos) treats the potential and density of galaxies as static in time. In other words, the density of the galaxy only depends on *where* you are in the galaxy, not *when* you observe it. 
 
 However, many theories predict that the central region of many galaxies have temporal density oscillations at small radii. Let's update the model we had before, adding a red circle for the region with oscillating density. For our purposes, we are going to just worry about the dark matter halo.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/galgraphic2.png" title="Figure 2" %}
     </div>
 </div>
+
 This effect is predicted for a halo of Fuzzy Dark Matter, an theorized ultralight form of dark matter that abides by quantum mechanics at galactic scales. We may see similar behavior with a rotating bar as well.
 
 An NFW density profile is used for the outer region, since this density profile converges with Cold Dark Matter (the more conventionally used dark matter model) and observations at large radii. For the core density profile (the one that is fluctuating), we use a profile that is cusped (the reason why this is important is to resolve the [core cusp problem]()). The core density is dependent on a scale radius, $$r_c$$, which varies to introduce temporal density oscillations in the central region.
@@ -56,6 +60,7 @@ Another way to visualize the evolution of the density is to make a color map wit
         {% include figure.html path="assets/img/tables.png" title="Figure 2" %}
     </div>
 </div>
+
 Each vertical strip represents a snapshot of the relationship between radius and density at a specific time, while horizontal strips reveal how density changes over time at a specific radius.
 
 Agreeing with intuition, the dynamical effect of this oscillating central potential on some structure in this galaxy is maximized when you are closer to the region of oscillation. Conveniently, very unique structure forms (in a static potential) when you merge a small galaxy with a larger galaxy on a trajectory that comes close to the center: stellar shells.
