@@ -19,7 +19,7 @@ Let's start with a the following simplified model of a galaxy.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/galgraphic1.png" title="Figure 2" center=true class="img-fluid rounded z-depth-1"%}
+        {% include figure.html path="assets/img/galgraphic1.png" title="Figure 2" class="img-fluid rounded z-depth-1"%}
     </div>
 </div>
 
@@ -31,7 +31,7 @@ However, many theories predict that the central region of many galaxies have tem
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/galgraphic2.png" title="Figure 2" %}
+        {% include figure.html path="assets/img/galgraphic2.png" title="Figure 2" class="img-fluid rounded z-depth-1"%}
     </div>
 </div>
 
@@ -61,7 +61,7 @@ Another way to visualize the evolution of the density is to make a color map wit
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tables.png" title="Figure 2" %}
+        {% include figure.html path="assets/img/tables.png" title="Figure 2" class="img-fluid rounded z-depth-1"%}
     </div>
 </div>
 
@@ -74,7 +74,7 @@ Before moving forward, let's get some intuition for stellar shell formation and 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/galgraphic3.png" title="Figure 2" %}
+        {% include figure.html path="assets/img/galgraphic3.png" title="Figure 2" class="img-fluid rounded z-depth-1"%}
     </div>
 </div>
 
@@ -119,7 +119,7 @@ We conducted a test particle simulation using leapfrog integration, interpolatin
 ### Results
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/T_convg.png" title="Figure 2" %}
+        {% include figure.html path="assets/img/T_convg.png" title="Figure 2" class="img-fluid rounded z-depth-1"%}
     </div>
 </div>
 <div class="caption">
@@ -149,7 +149,7 @@ We conducted a test particle simulation using leapfrog integration, interpolatin
 
 [3]  Yavetz, T. D., Li, X., & Hui, L. 2022, Phys. Rev. D, 
       105, 023512, doi: 10.1103/PhysRevD.105.023512
-[4]  Price-Whelan, A. M., Johnston, K. V., Valluri, M., 
+[4]  Price-Whelan, A. M., Johnston, K. V., Valluri, M., 
       et al. 2016, MNRAS, 455, 1079, 
       doi: 10.1093/mnras/stvv2383
 
