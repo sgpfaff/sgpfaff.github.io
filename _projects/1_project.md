@@ -31,15 +31,15 @@ The conventional practice in galaxy research (disregarding unique cases such as 
 </div>
 This effect is predicted for a halo of Fuzzy Dark Matter, an ultralight form of dark matter that abides by quantum mechanics at galactic scales. We may see similar behavior with a rotating bar as well.
 
-An NFW density profile is used for the outer region, since this density profile converges with Cold Dark Matter (the more conventionally used dark matter model) and observations at large radii. For the core density profile (the one that is fluctuating), we use a profile that is cusped (the reason why this is important is to resolve the [core cusp problem]()). The core density is dependent on a scale radius, $r_c$, which varies to introduce temporal density oscillations in the central region.
-$$
+An NFW density profile is used for the outer region, since this density profile converges with Cold Dark Matter (the more conventionally used dark matter model) and observations at large radii. For the core density profile (the one that is fluctuating), we use a profile that is cusped (the reason why this is important is to resolve the [core cusp problem]()). The core density is dependent on a scale radius, $$r_c$$, which varies to introduce temporal density oscillations in the central region.
+$$$
 \rho(r, t) = 
 \begin{array}{ll}
     \rho_{CORE} & r \leq r_{intersect}
     \rho_{NFW} & r \geq r_{intersect}
 \end{array}
-$$
-where $r_{intersect}$ is the radius where the density profiles intersect and $r_c = r_c(0) sin(\frac{2 \pi t}{T_{osc}}). **$T_{osc}$** is the period of density oscillation, which becomes an important parameter in interpreting our results.
+$$$
+where $$r_{intersect}$$ is the radius where the density profiles intersect and $$r_c = r_c(0) sin(\frac{2 \pi t}{T_{osc}})$$. **$$T_{osc}$$** is the period of density oscillation, which becomes an important parameter in interpreting our results.
 
 One way to visualize this density oscillation is to animate the density-radius plot over time. 
 
