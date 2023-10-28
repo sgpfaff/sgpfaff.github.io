@@ -174,6 +174,8 @@ The resulting effect when $$T_{core} ~ T_{orbit}$$ is dependent on the resonance
 </div>
 
 There are several points in the plot where the lines converge after they pass through the central region, meaning that their energies converged. At other points, their energies spread out after passing by the oscillating region. From this, we can see how energy is being added and removed from stars in the system differently, creating unique patterns of convergence and divergence.
+
+The oscillating shell has produced several rare but observed structures, such as rings and one armed spirals. There have also been cases where some particles get bound to the center and others are ejected. The simulations have also produced compression waves of stars being ejected from the central region. 
 <br>
 <br>
 
