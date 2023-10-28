@@ -32,7 +32,7 @@ The circle in the middle with the squiggly line represents the visible matter of
 
 The conventional practice in galaxy research (disregarding unique cases such as spiral arms, bars, and subhalos) treats the potential and density of galaxies as static in time. In other words, the density of the galaxy only depends on *where* you are in the galaxy, not *when* you observe it. 
 
-However, many theories predict that the central region of many galaxies have temporal density oscillations at small radii. Let's update the model we had before, adding a red circle for the region with oscillating density. For our purposes, we are only concerned with the dark matter halo, so I have removed the visible matter from the diagram.
+However, many theories predict that the central region of many galaxies have temporal density oscillations at small radii. For example, this effect is predicted for a dark matter halo of Fuzzy Dark Matter, an theorized ultralight form of dark matter that abides by quantum mechanics at galactic scales. We may see similar behavior with a rotating bar as well.Let's update our model, adding a red circle for the region with oscillating density. For our purposes, we are only concerned with the dark matter halo, so I have removed the visible matter from the diagram.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -40,7 +40,6 @@ However, many theories predict that the central region of many galaxies have tem
     </div>
 </div>
 
-This effect is predicted for a halo of Fuzzy Dark Matter, an theorized ultralight form of dark matter that abides by quantum mechanics at galactic scales. We may see similar behavior with a rotating bar as well.
 
 A [Navarro-Frenk-White (NFW) density profile](https://en.wikipedia.org/wiki/Navarro–Frenk–White_profile) is used for the outer region, since this density profile converges with Cold Dark Matter (the more conventionally used dark matter model) and observations at large radii. For the core density profile (the one that is fluctuating), we use a profile that is cusped (the reason why this is important is to resolve the [core cusp problem](https://en.wikipedia.org/wiki/Cuspy_halo_problem)). The core density is dependent on a scale radius, $$r_c(t)$$, which varies sinusoidally, introducing temporal density oscillations in the central region.
 
@@ -88,15 +87,14 @@ Agreeing with intuition, the dynamical effect of this oscillating central potent
 <br>
 
 ### Stellar Shells
-Before moving forward, let's get some intuition for stellar shell formation and morphology. To start, consider the following setup: a dwarf galaxy (blue) merging with the dark matter halo of an elliptical galaxy on a radial trajectory (dashed blue). We refer to the smaller galaxy in this situation as the ***progenitor*** and the larger galaxy as the ***host***.
+Before moving forward, let's get some intuition for stellar shell formation and morphology in a conventional, static potential. Consider the following setup: a dwarf galaxy (blue) merging with the dark matter halo of an elliptical galaxy on a radial trajectory (dashed blue).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/galgraphic3.png" title="Figure 2" class="img-fluid rounded z-depth-1"%}
     </div>
 </div>
-
-The progenitor contains stars with different energies and angular momenta, both quantities that do not change through time with a static potential. First, the energy governs what the furthest point of the orbit is (apocenter) and how long it takes a star to go from one apocenter to another, $$T_{orbit}$$. 
+ We refer to the smaller galaxy in this situation as the ***progenitor*** and the larger galaxy as the ***host***. The progenitor contains stars with different energies and angular momenta, both quantities that do not change through time with a static potential. First, the energy governs what the furthest point of the orbit is (apocenter) and how long it takes a star to go from one apocenter to another, $$T_{orbit}$$. 
 
 Having a distribution of energy means that stars in the progenitor are progressing through there orbits at different speeds and they have different peak radii. As a result, the the progenitor will begin to spread along the radial direction. This is called *radial phase mixing*. Once the mixing has gone on for long enough, some stars may even begin to lap other stars.
 
@@ -124,7 +122,7 @@ By looking at the density of particles on any verticle strip, you can understand
     </div>
 </div>
 
-These two overdensities correspond to the two shells that exist at this time. Now trace the overdensities backwards in time. As you can see, they form at a lower radius and move outwards. However, the moving shells, which are boxed in red, aren't formed of a single group of stars slowly moving outward, rather it is new stars progressively reaching apocenter. As a result, we see each shell fade in and fade out as all of the stars eventually pass through. We can also see the shells overlapping, which is what I referred to as the stars "lapping" each other earlier.
+These two overdensities correspond to the two ***shells*** that exist at this time. Now trace the overdensities backwards in time. As you can see, they form at a lower radius and move outwards. However, the moving shells, which are boxed in red, aren't formed of a single group of stars slowly moving outward, rather it is new stars progressively reaching apocenter. As a result, we see each shell fade in and fade out as all of the stars eventually pass through. We can also see the shells overlapping, which is what I referred to as the stars "lapping" each other earlier.
 
 The stars bunch up at apocenter because this is the point where they are moving slowest, meaning that they are more likely to be there since this is a highly elliptical orbit. This is analogous to how a block oscillating on a spring moves slowest when it is at its maximum displacement. Considering the stars move slowest at apocenter in this situation, you have a better chance of finding stars at apocenter, which is why we see the bunches of stars at apocenter.
  
@@ -146,7 +144,7 @@ Combining these these two forms of mixing produces a *shell* structure.
         {% include figure.html path="assets/img/shell_irl.png" title="Figure 2" class="img-fluid rounded z-depth-1"%}
     </div>
 </div>
-Stellar shells are relatively common in irregular and lenticular galaxies, present in about 20% of them. This makes them great candidates to look for observational evidence of an oscillating potential if their structure is impacted.
+Stellar shells are relatively common, present in about 20% of elliptical and lenticular galaxies. This makes them great candidates to look for observational evidence of an oscillating potential if their structure is impacted.
 <br>
 
 ### Putting it all together
@@ -158,6 +156,24 @@ Now that we have set up an oscillating density profile and understand the mechan
         {% include figure.html path="assets/img/galgraphic4.png" title="Figure 2" class="img-fluid rounded z-depth-1"%}
     </div>
 </div>
+
+We find that the results of such an encounter are highly sensitive to the relationship between the two periods we have discussed: the orbit radial period, $$T_{orbit}$$, and the oscillation period, $$T_{core}$$. We find that when $$T_{core} >> T_{orbit}$$ and $$T_{core} << T_{orbit}$$ the structure converges to the standard static potential morphology. When $$T_{core} ~ T_{orbit}$$, structure is either entirely destroyed or new structure may be created. These results are shown in the following video, where the top left and the bottom right cells are the cases where $$T_{core} << T_{orbit}$$ and $$T_{core} >> T_{orbit}$$ respectively.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://www.youtube.com/embed/KV_E998ff2k?si=3jyiSDs50IYMDNHY" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
+    </div>
+</div>
+
+The resulting effect when $$T_{core} ~ T_{orbit}$$ is dependent on the resonance between the two oscillations. The resonance between these two frequencies is important because the central density oscillations adds and removes energy from stars, depending on when they pass through the center. This effect can be seen by plotting the total energy for each particle as a function of time, which is constant when there is a static potential.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/osc_static_H.png" title="Figure 1" class="img-fluid rounded z-depth-1"%}
+    </div>
+</div>
+
+There are several points in the plot where the lines converge after they pass through the central region, meaning that their energies converged. At other points, their energies spread out after passing by the oscillating region. From this, we can see how energy is being added and removed from stars in the system differently, creating unique patterns of convergence and divergence.
 <br>
 <br>
 
