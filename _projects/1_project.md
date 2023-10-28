@@ -141,7 +141,7 @@ As you can see in the animation, energy varies in the radial direction and the a
 Combining these these two forms of mixing produces a *shell* structure. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/shell_irl.png" title="Figure 2" class="img-fluid rounded z-depth-1"%}
+        {% include figure.html path="assets/img/shell_irl.jpg" title="Figure 2" class="img-fluid rounded z-depth-1"%}
     </div>
 </div>
 Stellar shells are relatively common, present in about 20% of elliptical and lenticular galaxies. This makes them great candidates to look for observational evidence of an oscillating potential if their structure is impacted.
