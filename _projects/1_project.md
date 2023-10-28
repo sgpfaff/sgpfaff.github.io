@@ -130,6 +130,8 @@ We can see how phase mixing is related to the distribution of energy and angular
 
 As you can see in the animation, energy varies in the radial direction and the angular momentum varies along the azimuthal direction.
 
+Stellar shells are relatively common in irregular and lenticular galaxies, present in about 20% of them. This makes them great candidates to look for observational evidence of an oscillating potential if their structure is impacted.
+
 ### Putting it all together
 Now that we have set up an oscillating density profile and understand the mechanics of stellar shells, we are ready to tackle the main question: what happens to this static shell morphology when you introduce an oscillating central potential during its formation?
 
