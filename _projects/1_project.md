@@ -120,17 +120,17 @@ By looking at the density of particles on any verticle strip, you can understand
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/phasemixing.png" title="Figure 2" class="img-fluid rounded z-depth-1"%}
+        {% include figure.html path="assets/img/phasemixing.png" title="Figure 2" class="img-fluid rounded z-depth-1 zoomable=true"%}
     </div>
 </div>
 
-These two overdensities correspond to the two shells that exist at this time. Now trace the overdensities backwards in time. As you can see, they form at a lower radius and move outwards. However, the moving shell isn't the same group of stars slowly moving outward, rather it is new stars progressively reaching apocenter. As a result, we see each shell fade in and fade out as all of the stars eventually pass through.
+These two overdensities correspond to the two shells that exist at this time. Now trace the overdensities backwards in time. As you can see, they form at a lower radius and move outwards. However, the moving shell isn't the same group of stars slowly moving outward, rather it is new stars progressively reaching apocenter. As a result, we see each shell fade in and fade out as all of the stars eventually pass through. We can also see the shells overlapping, which is what I referred to as the stars "lapping" each other earlier.
 
 The stars bunch up at apocenter because this is the point where they are moving slowest, meaning that they are more likely to be there since this is a highly elliptical orbit. This is analogous to how a block oscillating on a spring moves slowest when it is at its maximum displacement. Considering the stars move slowest at apocenter in this situation, you have a better chance of finding stars at apocenter, which is why we see the bunches of stars at apocenter.
  
-Now that we have looked into what the effect of a spread of energy is, let's consider angular momentum. The angular momentum of a star essentially expresses how much tangential velocity (scaled by its radius) a star has. Since there is a small spread of initial radii in the progenitor, the spread of angular momentum basically informs us how much the stars will spread in the azimuthal direction. This is called *azimuthal phase mixing*. Combining these these two forms of mixing produces a *shell* structure. 
+Now that we have looked into what the effect of a spread of energy is, let's consider angular momentum. The angular momentum of a star essentially expresses how much tangential velocity (scaled by its radius) a star has. Since there is a small spread of initial radii in the progenitor, the spread of angular momentum basically informs us how much the stars will spread in the azimuthal direction. This is called *azimuthal phase mixing*. 
 
-We can see how phase mixing is related to the distribution of energy and angular momentum by coloring each star based on its energy and angular momentum.
+Another way to visualize the distribution of energy and angular momentum by coloring each star based on its energy and angular momentum.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -140,13 +140,14 @@ We can see how phase mixing is related to the distribution of energy and angular
 
 As you can see in the animation, energy varies in the radial direction and the angular momentum varies along the azimuthal direction.
 
-Stellar shells are relatively common in irregular and lenticular galaxies, present in about 20% of them. This makes them great candidates to look for observational evidence of an oscillating potential if their structure is impacted.
-
+Combining these these two forms of mixing produces a *shell* structure. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/shell_irl.png" title="Figure 2" class="img-fluid rounded z-depth-1"%}
     </div>
 </div>
+Stellar shells are relatively common in irregular and lenticular galaxies, present in about 20% of them. This makes them great candidates to look for observational evidence of an oscillating potential if their structure is impacted.
+<br>
 
 ### Putting it all together
 Now that we have set up an oscillating density profile and understand the mechanics of stellar shells, we are ready to tackle the main question: what happens to this static shell morphology when you introduce an oscillating central potential during its formation?
