@@ -102,7 +102,7 @@ To understand this process a bit more, let's look at a graph of radius versus ti
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://www.youtube.com/watch?v=RsmxoaW-1ug" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
+        {% include video.html path="https://www.youtube.com/embed/RsmxoaW-1ug?si=yqfCFzDFhcKl6PcU" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
     </div>
 </div>
 
@@ -110,7 +110,7 @@ Now, let's give this star some friends and remake the same animation.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://www.youtube.com/watch?v=O4corKdCKxI" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
+        {% include video.html path="https://www.youtube.com/embed/O4corKdCKxI" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
     </div>
 </div>
 
@@ -124,7 +124,7 @@ We can see how phase mixing is related to the distribution of energy and angular
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://www.youtube.com/watch?v=c2iGJToknXs" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
+        {% include video.html path="https://www.youtube.com/embed/c2iGJToknXs?si=zZaGcYTjjmNU6Nuo" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
     </div>
 </div>
 
