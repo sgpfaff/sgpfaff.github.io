@@ -100,7 +100,7 @@ The progenitor contains stars with different energies and angular momenta, both 
 
 Having a distribution of energy means that stars in the progenitor are progressing through there orbits at different speeds and they have different peak radii. As a result, the the progenitor will begin to spread along the radial direction. This is called *radial phase mixing*. Once the mixing has gone on for long enough, some stars may even begin to lap other stars.
 
-To understand this process a bit more, let's look at a graph of radius versus time for all of the stars in a progenitor galaxy. This following animation gives intuition for how a radius versus time plot relates to an orbit in the way you probably think of it.
+To understand this process a bit more, let's look at a graph of radius versus time for all of the stars in a progenitor galaxy. This following animation gives intuition for how a radius versus time plot relates to an orbit in cartesian space.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -116,7 +116,7 @@ Now, let's give this star some friends and remake the same animation.
     </div>
 </div>
 
-By looking at the density of particles on any verticle strip, you can understand how the stars are distributed by radius. Looking at the vertical strip on the far right cooresponds to the radius of all particles at the current moment. Looking at the following snapshot, notice that there are two overdensities. 
+By looking at the density of particles on any verticle strip, you can understand how the stars are distributed by radius. Looking at the vertical strip on the far right cooresponds to the radius of all particles at the current moment. Looking at the vertical strip on the far right of the following snapshot, notice that there are two overdensities, labeled **1** and **2**. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -124,7 +124,7 @@ By looking at the density of particles on any verticle strip, you can understand
     </div>
 </div>
 
-These two overdensities correspond to the two shells that exist at this time. Now trace the overdensities backwards in time. As you can see, they form at a lower radius and move outwards. However, the moving shell isn't the same group of stars slowly moving outward, rather it is new stars progressively reaching apocenter. As a result, we see each shell fade in and fade out as all of the stars eventually pass through. We can also see the shells overlapping, which is what I referred to as the stars "lapping" each other earlier.
+These two overdensities correspond to the two shells that exist at this time. Now trace the overdensities backwards in time. As you can see, they form at a lower radius and move outwards. However, the moving shells, which are boxed in red, aren't formed of a single group of stars slowly moving outward, rather it is new stars progressively reaching apocenter. As a result, we see each shell fade in and fade out as all of the stars eventually pass through. We can also see the shells overlapping, which is what I referred to as the stars "lapping" each other earlier.
 
 The stars bunch up at apocenter because this is the point where they are moving slowest, meaning that they are more likely to be there since this is a highly elliptical orbit. This is analogous to how a block oscillating on a spring moves slowest when it is at its maximum displacement. Considering the stars move slowest at apocenter in this situation, you have a better chance of finding stars at apocenter, which is why we see the bunches of stars at apocenter.
  
