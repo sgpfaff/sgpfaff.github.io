@@ -96,7 +96,9 @@ Before moving forward, let's get some intuition for stellar shell formation and 
     </div>
 </div>
 
-The progenitor contains stars with different energies and angular momenta, both quantities that do not change through time with a static potential. The energy governs what the furthest point of the orbit is (apocenter) and how long it takes a star to go from one apocenter to another, $$T_{orbit}$$. Having a distribution of energy means that stars in the progenitor are progressing through there orbits at different speeds and they have different peak radii. As a result, the the progenitor will begin to spread along the radial direction. This is called *radial phase mixing*. Once the mixing has gone on for long enough, some stars may even begin to lap other stars.
+The progenitor contains stars with different energies and angular momenta, both quantities that do not change through time with a static potential. The energy governs what the furthest point of the orbit is (apocenter) and how long it takes a star to go from one apocenter to another, $$T_{orbit}$$. 
+
+Having a distribution of energy means that stars in the progenitor are progressing through there orbits at different speeds and they have different peak radii. As a result, the the progenitor will begin to spread along the radial direction. This is called *radial phase mixing*. Once the mixing has gone on for long enough, some stars may even begin to lap other stars.
 
 To understand this process a bit more, let's look at a graph of radius versus time for all of the stars in a progenitor galaxy. This following animation gives intuition for how a radius versus time plot relates to an orbit in the way you probably think of it.
 
@@ -114,9 +116,13 @@ Now, let's give this star some friends and remake the same animation.
     </div>
 </div>
 
-To better understand what's going on, let's look at a snapshot. Notice that there is an overdensity of stars at apocente
+By looking at the density of particles on any verticle strip, you can understand how the stars are distributed by radius. Looking at the vertical strip on the far right cooresponds to the radius of all particles at the current moment. Looking at the following snapshot, notice that there are two overdensities. 
 
- overdensity of stars that moves outward at the edge of the shell. This may look like a mass of stars moving outwards, but what this actually is is a new group of stars with the same energy reaching their apocenter. So each time you see the edge of the shell move, you are actually seeing a new set of stars. Stars move slowest at their apocenter, just like a block oscillating on a spring moves slowest when it is at its maximum displacement (it's actually not moving at all). Considering the stars move slowest at apocenter in this situation, you have a better chance of finding stars at apocenter, which is why we see the bunches of stars at apocenter.
+
+
+These two overdensities correspond to the two shells that exist at this time. Now trace the overdensities backwards in time. As you can see, they form at a lower radius and move outwards. However, the moving shell isn't the same group of stars slowly moving outward, rather it is new stars progressively reaching apocenter. As a result, we see each shell fade in and fade out as all of the stars eventually pass through.
+
+The stars bunch up at apocenter because this is the point where they are moving slowest, meaning that they are more likely to be there since this is a highly elliptical orbit. This is analogous to how a block oscillating on a spring moves slowest when it is at its maximum displacement. Considering the stars move slowest at apocenter in this situation, you have a better chance of finding stars at apocenter, which is why we see the bunches of stars at apocenter.
  
 The angular momentum of a star essentially expresses how much tangential velocity (scaled by its radius) a star has. Since there is a small spread of initial radii in the progenitor, the spread of angular momentum basically informs us how much the stars will spread in the azimuthal direction. This is called *azimuthal phase mixing*. Combining these these two forms of mixing produces a *shell* structure. 
 
@@ -131,6 +137,12 @@ We can see how phase mixing is related to the distribution of energy and angular
 As you can see in the animation, energy varies in the radial direction and the angular momentum varies along the azimuthal direction.
 
 Stellar shells are relatively common in irregular and lenticular galaxies, present in about 20% of them. This makes them great candidates to look for observational evidence of an oscillating potential if their structure is impacted.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/shell_irl.png" title="Figure 2" class="img-fluid rounded z-depth-1"%}
+    </div>
+</div>
 
 ### Putting it all together
 Now that we have set up an oscillating density profile and understand the mechanics of stellar shells, we are ready to tackle the main question: what happens to this static shell morphology when you introduce an oscillating central potential during its formation?
