@@ -96,7 +96,7 @@ Before moving forward, let's get some intuition for stellar shell formation and 
     </div>
 </div>
 
-The progenitor contains stars with different energies and angular momenta, both quantities that do not change through time with a static potential. The energy governs what the furthest point of the orbit is (apocenter) and how long it takes a star to go from one apocenter to another, $$T_{orbit}$$. 
+The progenitor contains stars with different energies and angular momenta, both quantities that do not change through time with a static potential. First, the energy governs what the furthest point of the orbit is (apocenter) and how long it takes a star to go from one apocenter to another, $$T_{orbit}$$. 
 
 Having a distribution of energy means that stars in the progenitor are progressing through there orbits at different speeds and they have different peak radii. As a result, the the progenitor will begin to spread along the radial direction. This is called *radial phase mixing*. Once the mixing has gone on for long enough, some stars may even begin to lap other stars.
 
@@ -124,7 +124,7 @@ These two overdensities correspond to the two shells that exist at this time. No
 
 The stars bunch up at apocenter because this is the point where they are moving slowest, meaning that they are more likely to be there since this is a highly elliptical orbit. This is analogous to how a block oscillating on a spring moves slowest when it is at its maximum displacement. Considering the stars move slowest at apocenter in this situation, you have a better chance of finding stars at apocenter, which is why we see the bunches of stars at apocenter.
  
-The angular momentum of a star essentially expresses how much tangential velocity (scaled by its radius) a star has. Since there is a small spread of initial radii in the progenitor, the spread of angular momentum basically informs us how much the stars will spread in the azimuthal direction. This is called *azimuthal phase mixing*. Combining these these two forms of mixing produces a *shell* structure. 
+Now that we have looked into what the effect of a spread of energy is, let's consider angular momentum. The angular momentum of a star essentially expresses how much tangential velocity (scaled by its radius) a star has. Since there is a small spread of initial radii in the progenitor, the spread of angular momentum basically informs us how much the stars will spread in the azimuthal direction. This is called *azimuthal phase mixing*. Combining these these two forms of mixing produces a *shell* structure. 
 
 We can see how phase mixing is related to the distribution of energy and angular momentum by coloring each star based on its energy and angular momentum.
 
