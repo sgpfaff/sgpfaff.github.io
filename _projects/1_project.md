@@ -118,7 +118,11 @@ Now, let's give this star some friends and remake the same animation.
 
 By looking at the density of particles on any verticle strip, you can understand how the stars are distributed by radius. Looking at the vertical strip on the far right cooresponds to the radius of all particles at the current moment. Looking at the following snapshot, notice that there are two overdensities. 
 
-
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/phasemixing.png" title="Figure 2" class="img-fluid rounded z-depth-1"%}
+    </div>
+</div>
 
 These two overdensities correspond to the two shells that exist at this time. Now trace the overdensities backwards in time. As you can see, they form at a lower radius and move outwards. However, the moving shell isn't the same group of stars slowly moving outward, rather it is new stars progressively reaching apocenter. As a result, we see each shell fade in and fade out as all of the stars eventually pass through.
 
