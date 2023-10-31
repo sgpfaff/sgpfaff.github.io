@@ -171,7 +171,7 @@ As expected, the shell structure converges to the static case when the amplitude
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path=https://www.youtube.com/embed/u8uTOZX388c?si=AMELbwlSpGdCexGf" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
+        {% include video.html path="https://www.youtube.com/embed/u8uTOZX388c?si=AMELbwlSpGdCexGf" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
     </div>
 </div>
 
