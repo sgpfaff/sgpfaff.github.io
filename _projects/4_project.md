@@ -14,7 +14,7 @@ toc:
 ---
 This page consists of several small projects I have done demonstrating different astrostatistics skills. These projects were largely completed as a part of Professor David Kipping's Astrostatistics graduate/undergraduate course.
 
-## Planet Detection Using Model Selection Methods
+## Planet Detection
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.html path="https://www.youtube.com/embed/0ddZoErYWPs?si=GMbK7vDaHhWwIdg5" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
