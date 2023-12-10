@@ -23,9 +23,9 @@ This page consists of several small projects I have done demonstrating different
 
 ## MOND or Dark Matter?
 
-<!-- <object data="/path/to/your/file.pdf" type="application/pdf" width="100%" height="600px">
-    <p>It appears you don't have a PDF plugin for this browser. You can <a href="/path/to/your/file.pdf">click here to download the PDF file.</a></p>
-</object> -->
+<object data="assets/pdf/Pfaffman_Astrostats_Final.pdf" type="application/pdf" width="100%" height="600px">
+    <p>It appears you don't have a PDF plugin for this browser. You can <a href="assets/pdf/Pfaffman_Astrostats_Final.pdf">click here to download the PDF file.</a></p>
+</object>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
