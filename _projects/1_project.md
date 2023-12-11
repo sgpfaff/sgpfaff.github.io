@@ -170,7 +170,7 @@ Now that we have set up an oscillating density profile and understand the mechan
 As expected, the shell structure converges to the static case when the amplitude of the oscillations is very small, as shown in the following animation.
 
 <div class="row justify-content-center">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include video.html path="https://www.youtube.com/embed/u8uTOZX388c?si=AMELbwlSpGdCexGf" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
     </div>
 </div>
@@ -178,7 +178,7 @@ As expected, the shell structure converges to the static case when the amplitude
 We find that the results of such an encounter are highly sensitive to the relationship between the two periods we have discussed: the orbit radial period, $$T_{orbit}$$, and the oscillation period, $$T_{core}$$. We find that when $$T_{core} >> T_{orbit}$$ and $$T_{core} << T_{orbit}$$ the structure converges to the standard static potential morphology. When $$T_{core} ~ T_{orbit}$$, structure is either entirely destroyed or new structure may be created. These results are shown in the following video, where the top left and the bottom right cells are the cases where $$T_{core} << T_{orbit}$$ and $$T_{core} >> T_{orbit}$$ respectively.
 
 <div class="row justify-content-center">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include video.html path="https://www.youtube.com/embed/KV_E998ff2k?si=3jyiSDs50IYMDNHY" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
     </div>
 </div>
