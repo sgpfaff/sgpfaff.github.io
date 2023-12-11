@@ -16,7 +16,7 @@ This page consists of several small projects I have done demonstrating different
 
 ## Planet Detection (Model Selection)
 <div class="row justify-content-center">
-    <div class="col-md-8 mt-3 mt-md-0 text-center">
+    <div class="col-lg-8 mt-3 mt-md-0 text-center">
         {% include video.html path="https://www.youtube.com/embed/0ddZoErYWPs?si=GMbK7vDaHhWwIdg5" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
     </div>
 </div>
@@ -24,13 +24,13 @@ This page consists of several small projects I have done demonstrating different
 ## MOND or Dark Matter?
 
 <div class="row justify-content-center">
-    <div class="col-md-8 mt-3 mt-md-0 text-center">
+    <div class="col-lg-8 mt-3 mt-md-0 text-center">
         {% include pdf.html path="https://gabrielpfaffman.github.io/assets/pdf/Pfaffman_Astrostats_Final.pdf" title="PDF" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-center">
-    <div class="col-md-8 mt-3 mt-md-0 text-center">
+    <div class="col-lg-8 mt-3 mt-md-0 text-center">
         {% include video.html path="https://www.youtube.com/embed/1HB805R5qyA?si=g_b9Mi-d9mdbeYdr" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
     </div>
 </div>
