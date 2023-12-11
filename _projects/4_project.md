@@ -13,7 +13,7 @@ This page consists of several small projects I have done demonstrating different
 
 ## Planet Detection (Model Selection)
 <div class="row justify-content-center">
-    <div class="col-lg mt-3 mt-md-0 text-center">
+    <div class="col-lg mt-8 mt-md-0 text-center">
         {% include video.html path="https://www.youtube.com/embed/0ddZoErYWPs?si=GMbK7vDaHhWwIdg5" title="Video 1" class="rounded z-depth-1" controls=true autoplay=true%}
     </div>
 </div>
