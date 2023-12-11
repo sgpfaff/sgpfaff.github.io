@@ -7,11 +7,8 @@ redirect:
 importance: 3
 permalink: /astrostats/
 category: undergraduate
-toc:
-    sidebar: left
 ---
 
----
 This page consists of several small projects I have done demonstrating different astrostatistics skills. These projects were largely completed as a part of Professor David Kipping's Astrostatistics graduate/undergraduate course.
 
 ## Planet Detection (Model Selection)
