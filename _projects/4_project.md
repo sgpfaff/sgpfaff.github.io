@@ -25,7 +25,7 @@ This page consists of several small projects I have done demonstrating different
 
 <div class="row justify-content-center">
     <div class="col-lg mt-3 mt-md-0 text-center">
-        {% include pdf.html path="https://gabrielpfaffman.github.io/assets/pdf/Pfaffman_Astrostats_Final.pdf" title="PDF" class="rounded z-depth-1" %}
+        {% include figure.html path="https://gabrielpfaffman.github.io/assets/pdf/Pfaffman_Astrostats_Final.pdf" title="PDF" class="rounded z-depth-1" %}
     </div>
 </div>
 
