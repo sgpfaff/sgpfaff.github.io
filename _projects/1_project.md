@@ -264,29 +264,6 @@ We conducted a test particle simulation using leapfrog integration, interpolatin
 <br>
 <br>
 
-### References
-[1]  Hendel, D., & Johnston, K. V. 2015, MNRAS, 454, 
-      2472, doi: 10.1093/mnras/stv2035
-
-[2]  Schive, H.-Y., Chiueh, T., & Broadhurst, T. 2014, 
-      Nature Physics, 10, 496, doi: 10.1038/nphys2996
-
-[3]  Yavetz, T. D., Li, X., & Hui, L. 2022, Phys. Rev. D, 
-      105, 023512, doi: 10.1103/PhysRevD.105.023512
-[4]  Price-Whelan, A. M., Johnston, K. V., Valluri, M., 
-      et al. 2016, MNRAS, 455, 1079, 
-      doi: 10.1093/mnras/stvv2383
-
-[5]  Ivezi ́c, ˇZ., Kahn, S. M., Tyson, J. A., et al. 2019, ApJ, 
-      873, 111, doi: 10.3847/1538-4357/ab042c
-
-[6]  Akeson, R., Armus, L., Bachelet, E., et al. 2019, 
-      The Wide Field Infrared Survey Telescope: 100 
-      Hubbles for the 2020s. https://arxiv.org/abs/
-      1902.05569.org
-
-
-
 
 
 
