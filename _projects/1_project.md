@@ -1,5 +1,5 @@
 ---
-layout: distill
+layout: post
 title: Stellar Shell Formation
 description: An investigation of how stellar shell formation is impacted by the presence of an oscillating central potential.
 img: assets/img/prof.gif
