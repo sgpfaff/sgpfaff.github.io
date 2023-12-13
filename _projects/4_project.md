@@ -11,12 +11,18 @@ category: undergraduate
 
 This page consists of several small projects I have done demonstrating different astrostatistics skills. These projects were largely completed as a part of Professor David Kipping's Astrostatistics graduate/undergraduate course.
 
+<br>
+<br>
+
 ## Planet Detection (Model Selection)
 <div class="row justify-content-center">
     <div class="col-lg mt-8 mt-md-0 text-center">
         {% include video.html path="https://www.youtube.com/embed/0ddZoErYWPs?si=GMbK7vDaHhWwIdg5" title="Video 1" class="rounded z-depth-1" controls=true autoplay=true width="700" height="394"%}
     </div>
 </div>
+
+<br>
+<br>
 
 ## MOND or Dark Matter?
 Click [here](https://gabrielpfaffman.github.io/assets/pdf/Pfaffman_Astrostats_Final.pdf) to view this pdf:
@@ -25,6 +31,8 @@ Click [here](https://gabrielpfaffman.github.io/assets/pdf/Pfaffman_Astrostats_Fi
         {% include pdf.html path="https://gabrielpfaffman.github.io/assets/pdf/Pfaffman_Astrostats_Final.pdf" title="PDF" class="rounded z-depth-1" width="700" height="963" %}
     </div>
 </div>
+
+<br>
 
 <div class="row justify-content-center">
     <div class="col-lg mt-3 mt-md-0 text-center">
