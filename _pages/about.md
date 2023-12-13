@@ -20,8 +20,8 @@ social: false  # includes social icons at the bottom of the page
 Aside from research, I am particularly interested in conducting outreach to share the exciting world of active science and promote scientific literacy. Please reach out to me with any inquires you may have!
 
 <div class="row justify-content-center">
-    <div class="col-lg mt-3 mt-md-0 text-center">
-        {% include pdf.html path="https://gabrielpfaffman.github.io/assets/pdf/Pfaffman_Astrostats_Final.pdf" title="PDF" class="rounded z-depth-1" %}
+    <div class="col-lg mt-8 mt-md-0 text-center">
+        {% include video.html path="https://www.youtube.com/embed/0ddZoErYWPs?si=GMbK7vDaHhWwIdg5" title="Video 1" class="rounded z-depth-1" controls=true autoplay=true width="560" height="315"%}
     </div>
 </div>
 
