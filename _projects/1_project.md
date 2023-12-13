@@ -8,7 +8,6 @@ category: undergraduate
 permalink: /shells/
 related_publications:
 bibliography: shells.bib
-
 toc:
     sidebar: left
 ---
