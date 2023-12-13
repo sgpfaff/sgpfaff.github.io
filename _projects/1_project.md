@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: distill
 title: Stellar Shell Formation
 description: An investigation of how stellar shell formation is impacted by the presence of an oscillating central potential.
 img: assets/img/prof.gif
@@ -9,7 +9,16 @@ permalink: /shells/
 related_publications:
 bibliography: shells.bib
 toc:
-    sidebar: left
+    - name: Detailed Overview
+        - name: Oscillating Central Potentials
+        - name: Stellar Shells
+        - name: Putting it all together
+    - name: Brief Overview
+        - name: Introduction
+        - name: Methods
+        - name: Results
+        - name: Conclusions
+
 ---
 
 ---
