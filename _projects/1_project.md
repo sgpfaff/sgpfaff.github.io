@@ -112,7 +112,7 @@ To understand this process a bit more, let's look at a graph of radius versus ti
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include video.html path="https://www.youtube.com/embed/RsmxoaW-1ug?si=yqfCFzDFhcKl6PcU" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
+        {% include video.html path="https://www.youtube.com/embed/RsmxoaW-1ug?si=yqfCFzDFhcKl6PcU" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true width="560" height="315"%}
     </div>
 </div>
 
@@ -120,7 +120,7 @@ Now, let's give this star some friends and remake the same animation.
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include video.html path="https://www.youtube.com/embed/O4corKdCKxI" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
+        {% include video.html path="https://www.youtube.com/embed/O4corKdCKxI" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true width="560" height="315"%}
     </div>
 </div>
 
@@ -142,7 +142,7 @@ Another way to visualize the distribution of energy and angular momentum by colo
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include video.html path="https://www.youtube.com/embed/c2iGJToknXs?si=zZaGcYTjjmNU6Nuo" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
+        {% include video.html path="https://www.youtube.com/embed/c2iGJToknXs?si=zZaGcYTjjmNU6Nuo" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true width="560" height="315"%}
     </div>
 </div>
 
@@ -171,7 +171,7 @@ As expected, the shell structure converges to the static case when the amplitude
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include video.html path="https://www.youtube.com/embed/u8uTOZX388c?si=AMELbwlSpGdCexGf" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
+        {% include video.html path="https://www.youtube.com/embed/u8uTOZX388c?si=AMELbwlSpGdCexGf" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true width="560" height="315"%}
     </div>
 </div>
 
@@ -179,7 +179,7 @@ We find that the results of such an encounter are highly sensitive to the relati
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include video.html path="https://www.youtube.com/embed/KV_E998ff2k?si=3jyiSDs50IYMDNHY" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
+        {% include video.html path="https://www.youtube.com/embed/KV_E998ff2k?si=3jyiSDs50IYMDNHY" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true width="560" height="315"%}
     </div>
 </div>
 
