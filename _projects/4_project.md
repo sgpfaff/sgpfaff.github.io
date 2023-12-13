@@ -17,7 +17,7 @@ This page consists of several small projects I have done demonstrating different
 ## Planet Detection (Model Selection)
 <div class="row justify-content-center">
     <div class="col-lg mt-8 mt-md-0 text-center">
-        {% include video.html path="https://www.youtube.com/embed/0ddZoErYWPs?si=GMbK7vDaHhWwIdg5" title="Video 1" class="rounded z-depth-1" controls=true autoplay=true width="700" height="394"%}
+        {% include video.html path="https://www.youtube.com/embed/0ddZoErYWPs?si=GMbK7vDaHhWwIdg5" title="Video 1" class="rounded z-depth-1" controls=true autoplay=true width="800" height="450"%}
     </div>
 </div>
 
@@ -28,7 +28,7 @@ This page consists of several small projects I have done demonstrating different
 Click [here](https://gabrielpfaffman.github.io/assets/pdf/Pfaffman_Astrostats_Final.pdf) to view this pdf:
 <div class="row justify-content-center">
     <div class="col-lg mt-3 mt-md-0 text-center">
-        {% include pdf.html path="https://gabrielpfaffman.github.io/assets/pdf/Pfaffman_Astrostats_Final.pdf" title="PDF" class="rounded z-depth-1" width="700" height="963" %}
+        {% include pdf.html path="https://gabrielpfaffman.github.io/assets/pdf/Pfaffman_Astrostats_Final.pdf" title="PDF" class="rounded z-depth-1" width="800" height="963" %}
     </div>
 </div>
 
@@ -36,7 +36,7 @@ Click [here](https://gabrielpfaffman.github.io/assets/pdf/Pfaffman_Astrostats_Fi
 
 <div class="row justify-content-center">
     <div class="col-lg mt-3 mt-md-0 text-center">
-        {% include video.html path="https://www.youtube.com/embed/1HB805R5qyA?si=g_b9Mi-d9mdbeYdr" title="Video 1" class="rounded z-depth-1" controls=true autoplay=true width="700" height="394"%}
+        {% include video.html path="https://www.youtube.com/embed/1HB805R5qyA?si=g_b9Mi-d9mdbeYdr" title="Video 1" class="rounded z-depth-1" controls=true autoplay=true width="800" height="450"%}
     </div>
 </div>
 
