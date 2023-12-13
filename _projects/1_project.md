@@ -121,7 +121,7 @@ To understand this process a bit more, let's look at a graph of radius versus ti
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include video.html path="https://www.youtube.com/embed/RsmxoaW-1ug?si=yqfCFzDFhcKl6PcU" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true width="560" height="315"%}
+        {% include video.html path="https://www.youtube.com/embed/RsmxoaW-1ug?si=yqfCFzDFhcKl6PcU" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true width="560" height="350"%}
     </div>
 </div>
 
