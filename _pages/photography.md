@@ -11,7 +11,13 @@ nav_order: 3
         {% include figure.html path="assets/img/el_morro_13.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<br>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/NYC_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 <br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -68,13 +74,7 @@ nav_order: 3
     </div>
 </div>
 
-<br>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/NYC_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
 <br>
 
