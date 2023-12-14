@@ -6,7 +6,7 @@ img: assets/img/prof.gif
 importance: 1
 category: undergraduate
 permalink: /shells/
-related_publications:
+related_publications: Hendel_2015, Schive_2014, Yavetz_2022, 2016MNRAS.455.1079P
 bibliography: shells.bib
 toc:
     sidebar: left
