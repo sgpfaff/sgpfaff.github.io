@@ -9,15 +9,16 @@ permalink: /shells/
 related_publications:
 bibliography: shells.bib
 toc:
-    - name: Detailed Overview
-        - name: Oscillating Central Potentials
-        - name: Stellar Shells
-        - name: Putting it all together
-    - name: Brief Overview
-        - name: Introduction
-        - name: Methods
-        - name: Results
-        - name: Conclusions
+    sidebar: left
+    # - name: Detailed Overview
+    #     - name: Oscillating Central Potentials
+    #     - name: Stellar Shells
+    #     - name: Putting it all together
+    # - name: Brief Overview
+    #     - name: Introduction
+    #     - name: Methods
+    #     - name: Results
+    #     - name: Conclusions
 
 ---
 
