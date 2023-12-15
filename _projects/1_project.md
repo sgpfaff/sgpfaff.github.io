@@ -253,7 +253,7 @@ We conducted a test particle simulation using leapfrog integration, interpolatin
     </div>
 </div>
 <div class="caption">
-    **Figure 3.** The top and bottom figures depict the 2D spatial distribution of test particle shells with differing central potential oscillation periods at 𝑡 = 15.24 $T_{orbit}$. Oscillation periods and the simulation time are represented in terms of the radial period of the progenitor base orbit, $T_{orbit}$ = 2.5 𝐺𝑦𝑟. The periods vary from significantly shorter periods than the time required to traverse the central region to substantially longer periods.
+    **Figure 3.** The top and bottom figures depict the 2D spatial distribution of test particle shells with differing central potential oscillation periods at 𝑡 = 15.24 $$T_{orbit}$$. Oscillation periods and the simulation time are represented in terms of the radial period of the progenitor base orbit, $$T_{orbit}$$ = 2.5 𝐺𝑦𝑟. The periods vary from significantly shorter periods than the time required to traverse the central region to substantially longer periods.
 </div>
 
 * As expected, the effect of the central potential oscillation is negligible in cases where the oscillation period is much greater or much less than the time for the progenitor to cross the central region (top left and bottom right cells of Figure 3). The shells formed in this regime are nearly identical to the typical shells formed in a static potential.
