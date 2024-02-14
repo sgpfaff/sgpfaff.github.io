@@ -7,11 +7,11 @@ nav: false
 nav_order: 3
 ---
 
-<div class="row justify-content-center">
+<!-- <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
         {% include video.html path="https://www.youtube.com/embed/nwEvbD1lfbU?si=IL46mynHL2B7n35u" title="Video 1" class="img-fluid rounded z-depth-1" controls=true autoplay=true width="560" height="315"%}
     </div>
-</div>
+</div> -->
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
