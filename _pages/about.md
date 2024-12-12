@@ -6,7 +6,7 @@ subtitle: <a href='#'>Astronomy Department, Columbia University</a>. sgp2146@col
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: library_headshot.jpg
   image_circular: true # crops the image to make it circular
   more_info: 
 news: false  # includes a list of news items
