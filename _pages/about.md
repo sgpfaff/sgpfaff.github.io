@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Astronomy Department, Columbia University</a>. gabriel.pfaffman@mail.utoronto.ca
+subtitle: <a href='#'>[David A. Dunlap Department of Astronomy and Astrophysics, University of Toronto](https://www.astro.utoronto.ca/)</a>. gabriel.pfaffman@mail.utoronto.ca
 
 profile:
   align: right
