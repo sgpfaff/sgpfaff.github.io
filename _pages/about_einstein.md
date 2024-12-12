@@ -1,3 +1,3 @@
-**Welcome!** I am a first year PhD student in the [Dunlap Department of Astronomy and Astrophysics](https://www.astro.utoronto.ca/) at the University of Toronto. My primary research interests are galactic dynamics, galactic evolution, dark matter, and structure formation. 
+**Welcome!** I am a first year PhD student in the [Dunlap Department of Astronomy and Astrophysics](https://www.astro.utoronto.ca/) at the University of Toronto. My primary research interests are galactic dynamics, machine learning, galactic evolution, dark matter, and structure formation. 
 
 Aside from research, I am  interested in conducting outreach to share the exciting world of active science and promote scientific literacy. I am also a feel strongly that creativity brings benefits to all aspects of life. As a result, I find myself playing, writing, and listening to music and doing photography in my free time! **Please reach out to me if you would like to chat!**
