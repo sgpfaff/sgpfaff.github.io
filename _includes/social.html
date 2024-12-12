@@ -2,7 +2,7 @@
             <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a>
             {% endif %}
             {% when 'bluesky_url' %}
-            <a href="{{ social[1] }}" title="Bluesky"><i class="fa-brands fa-bluesky"></i></a>
+            <a href="https://bsky.app/profile/https://bsky.app/profile/{{site.bluesky_id}}" title="Bluesky"><i class="fa-brands fa-bluesky"></i></a>
             {%- if site.telegram_username -%}
             <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram"><i class="fab fa-telegram"></i></a>
             {% endif %}
